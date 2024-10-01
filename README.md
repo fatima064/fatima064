@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima Faheem</h1>
-<h3 align="center">I'm currently a 2nd year BCA student at Christ University Delhi NCR with a keen interest in front-end development and graphic design. I am always looking for new challenges that can help me enhance my skills and knowledge and contribute to building innovative solutions.</h3>
+<h3 align="center">I'm currently a 3rd year BCA student at Christ University Delhi NCR with a keen interest in front-end development and graphic design. I am always looking for new challenges that can help me enhance my skills and knowledge and contribute to building innovative solutions.</h3>
 <img align"right" alt="Coding" width="400" src="https://media.baamboozle.com/uploads/images/144726/1664375442_31055_gif-url.gif">
 
 
