@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fatimafaheem064@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pxCBEHug7Luxuj_WBfRj_IodDXT9gv2R/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pxCBEHug7Luxuj_WBfRj_IodDXT9gv2R/view?usp=sharing](https://drive.google.com/file/d/1-EtL7MtELx0nKiZ970VZXztThQ5LXHj7/view)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
