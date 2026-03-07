@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Python,HTML,CSS,JavaScript**
+- 💬 Ask me about **Python, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **fatimafaheem064@gmail.com**
 
