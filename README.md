@@ -15,6 +15,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pxCBEHug7Luxuj_WBfRj_IodDXT9gv2R/view?usp=sharing](https://drive.google.com/file/d/1-EtL7MtELx0nKiZ970VZXztThQ5LXHj7/view)]
 
+- <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fatima-faheem-a18665290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatima-faheem-a18665290/" height="30" width="40" /></a>
