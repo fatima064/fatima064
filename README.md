@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fatima Faheem</h1>
-<h3 align="center">I'm currently a 1st year Msc CS student at srm  with a keen interest in Development and Cloud security. I am always looking for new challenges that can help me enhance my skills and knowledge and contribute to building innovative solutions.</h3>
+<h3 align="center">I'm currently a 2nd year Msc CS student at SRM  with a keen interest in Development ,Analytics and Cloud security. I am always looking for new challenges that can help me enhance my skills and knowledge and contribute to building innovative solutions.</h3>
 <img align"right" alt="Coding" width="400" src="https://media.baamboozle.com/uploads/images/144726/1664375442_31055_gif-url.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatima064&label=Profile%20views&color=0e75b6&style=flat" alt="fatima064" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatima064" alt="fatima064" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Cybersecurity **
 
-- 💬 Ask me about **Python, HTML, CSS, JavaScript**
+- 💬 Ask me about **Python, Frontend ,Data Analysis**
 
 - 📫 How to reach me **fatimafaheem064@gmail.com**
 
