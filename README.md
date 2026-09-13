@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fatimafaheem064@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pxCBEHug7Luxuj_WBfRj_IodDXT9gv2R/view?usp=sharing](https://drive.google.com/file/d/1-EtL7MtELx0nKiZ970VZXztThQ5LXHj7/view)]
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cFa09F6VN2kVCJ1ajKQ0GEgggBctX4Dd/view?usp=sharing)]
 
 - <!-- Snake Game Repo View -->
 
